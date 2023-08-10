@@ -1,0 +1,527 @@
+1
+00:00:25,330 --> 00:00:50,330
+Sama
+
+2
+00:00:50,450 --> 00:01:15,378
+Sam
+
+3
+00:01:15,514 --> 00:01:39,590
+Sam
+
+4
+00:01:40,370 --> 00:02:05,234
+Sam
+
+5
+00:02:05,322 --> 00:02:29,670
+Sam
+
+6
+00:02:30,210 --> 00:02:55,234
+Sam
+
+7
+00:02:55,322 --> 00:03:20,330
+Sam
+
+8
+00:03:20,450 --> 00:03:45,010
+Sam
+
+9
+00:03:45,050 --> 00:04:10,234
+Sam
+
+10
+00:04:10,322 --> 00:04:35,234
+Sam
+
+11
+00:04:35,322 --> 00:05:00,378
+Sam
+
+12
+00:05:00,514 --> 00:05:24,946
+Sam
+
+13
+00:05:25,098 --> 00:05:25,800
+SA.
+
+14
+00:05:49,970 --> 00:06:40,330
+Sam Sam
+
+15
+00:06:40,450 --> 00:07:05,090
+Sam
+
+16
+00:07:05,130 --> 00:07:05,720
+SA.
+
+17
+00:07:35,190 --> 00:07:39,518
+Cześć. Cześć wszystkim. Dzień dobry Marku. Dobry wieczór,
+
+18
+00:07:39,694 --> 00:07:43,858
+Polscy ludzie. Bardzo się cieszymy, że zaczynamy
+
+19
+00:07:43,944 --> 00:07:47,846
+nasz pierwszy z
+
+20
+00:07:47,868 --> 00:07:51,350
+kilka, które planujemy zrobić kilka
+
+21
+00:07:51,500 --> 00:07:55,494
+szkolenia wokalne dla śpiewaków i nauczycieli śpiewu. Jesteśmy bardzo
+
+22
+00:07:55,532 --> 00:07:58,680
+szczęśliwy, że jesteś tutaj z nami.
+
+23
+00:07:59,290 --> 00:08:03,034
+Jest 07:00. Może zapytam
+
+24
+00:08:03,152 --> 00:08:07,510
+Zaznacz, aby zrobić krótkie wprowadzenie, zanim zaczniemy nagrywać.
+
+25
+00:08:07,670 --> 00:08:11,146
+I pozwól mi tylko przygotować mój drugi komputer, ponieważ ja
+
+26
+00:08:11,168 --> 00:08:14,782
+właśnie wybiegł z pracy i przyszedł
+
+27
+00:08:14,836 --> 00:08:18,746
+dom. Nasza wiceprezes, Paulina Tujinska,
+
+28
+00:08:18,778 --> 00:08:22,480
+nie czuje się dobrze, bo jest w ciąży, a dzisiaj
+
+29
+00:08:23,250 --> 00:08:27,266
+będę gościć
+
+30
+00:08:27,288 --> 00:08:29,860
+warsztat. Dagmara, prowadzisz? Również?
+
+31
+00:08:30,230 --> 00:08:33,970
+Świetnie. Więc po prostu muszę ci dać
+
+32
+00:08:34,039 --> 00:08:37,234
+niektóre mogę tak.
+
+33
+00:08:37,432 --> 00:08:41,714
+Dobra. Dagmara to także nasze Miksery
+
+34
+00:08:41,761 --> 00:08:48,360
+członek stowarzyszenia. Pozwól, że dam ci ok,
+
+35
+00:08:50,090 --> 00:08:54,026
+teraz jesteś współgospodarzem. Świetnie. Więc pozwól
+
+36
+00:08:54,048 --> 00:08:58,426
+ja tylko przygotuję drugi laptop i, Mark, jeśli możesz
+
+37
+00:08:58,528 --> 00:09:01,434
+powiedz słowo, będę szczęśliwy. Powitanie. Sprawdź jeden,
+
+38
+00:09:01,472 --> 00:09:05,150
+dwa. Dobrze cię widzieć. Trwa nagrywanie.
+
+39
+00:09:05,490 --> 00:09:09,134
+Rozumiem. Cieszę się, że jestem ze wszystkimi.
+
+40
+00:09:09,252 --> 00:09:12,606
+Chciałbym zachować to tak swobodnie, jak to możliwe, więc jeśli
+
+41
+00:09:12,628 --> 00:09:16,562
+są pytania, jestem otwarty na wszelkie odpowiedzi
+
+42
+00:09:16,616 --> 00:09:18,834
+i wszystkie po drodze.
+
+43
+00:09:19,032 --> 00:09:22,322
+I w trakcie naszego
+
+44
+00:09:22,376 --> 00:09:26,146
+pracując razem, dzisiaj skupimy się na początkujących. Jutro będzie
+
+45
+00:09:26,168 --> 00:09:28,390
+skup się bardziej na zaawansowanych.
+
+46
+00:09:28,890 --> 00:09:32,418
+Ale nie ma złych pytań i jest
+
+47
+00:09:32,434 --> 00:09:34,200
+nie ma złego momentu, żeby o to zapytać.
+
+48
+00:09:36,090 --> 00:09:39,240
+Ktoś będzie monitorował czat, zgadza się?
+
+49
+00:09:40,090 --> 00:09:43,418
+Tak, dzisiaj będę tym jedynym.
+
+50
+00:09:43,584 --> 00:09:47,098
+Ok, więc zapytam cię, bo nie chcę na to patrzeć
+
+51
+00:09:47,104 --> 00:09:49,420
+czat, podczas gdy ja mówię.
+
+52
+00:09:50,190 --> 00:09:53,806
+Zapytam cię w każdej chwili, więc możesz swobodnie strzelać
+
+53
+00:09:53,828 --> 00:09:57,946
+w dowolnym momencie, a następnie zbierze je i zapyta w odpowiednim momencie
+
+54
+00:09:57,978 --> 00:10:01,306
+czasy. Czy chcesz
+
+55
+00:10:01,338 --> 00:10:05,166
+do mnie, aby je zebrać? A jeśli powiesz, że będzie
+
+56
+00:10:05,188 --> 00:10:09,054
+mieć czas na pytania i nie chcesz, aby ci przeszkadzano
+
+57
+00:10:09,102 --> 00:10:12,654
+przez pytania, które brzmią tak, myślę, że najlepiej będzie, jak to zrobię
+
+58
+00:10:12,702 --> 00:10:15,410
+pytaj, czy są jakieś pytania? A potem możesz dać mi znać.
+
+59
+00:10:15,560 --> 00:10:19,910
+Tak. Dobra. Pozwólcie, że zacznę drugie nagranie.
+
+60
+00:10:20,650 --> 00:10:23,800
+Im więcej zrobimy, tym lepiej,
+
+61
+00:10:24,650 --> 00:10:26,280
+tym bardziej jesteśmy bezpieczni.
+
+62
+00:10:29,450 --> 00:10:30,620
+Chwileczkę.
+
+63
+00:10:35,150 --> 00:10:38,618
+Muszę tylko wejść w zoom jako ja
+
+64
+00:10:38,624 --> 00:10:42,438
+zrób sobie drugie zbliżenie. A to jest zoom asocjacyjny.
+
+65
+00:10:42,454 --> 00:10:46,350
+Więc muszę się ponownie zalogować. Zajmie to minutę,
+
+66
+00:10:47,970 --> 00:10:51,440
+i potrzebuję, abyś pozwolił mi udostępnić mój ekran.
+
+67
+00:10:52,290 --> 00:10:54,800
+Prawidłowy. Dagmara, czy możesz to zrobić teraz?
+
+68
+00:11:02,390 --> 00:11:06,420
+Nie słyszę Cię. Tak, nic mi nie jest. Próbuję to zrobić.
+
+69
+00:11:12,310 --> 00:11:15,750
+Więc powinienem po prostu zrobić Marka współgospodarzem?
+
+70
+00:11:16,410 --> 00:11:20,460
+Tak, to możliwe. Lub możesz po prostu pozwolić mu udostępnić swój ekran.
+
+71
+00:11:20,830 --> 00:11:24,140
+nie wiem co jest lepsze.
+
+72
+00:11:30,830 --> 00:11:34,238
+W porządku. Rozumiem. Zacznę od tego, że nie jestem pewien, czy
+
+73
+00:11:34,324 --> 00:11:38,094
+właściwie mogę, bo jestem tylko współgospodarzem, a nie gospodarzem
+
+74
+00:11:38,132 --> 00:11:41,726
+gospodarz. Ok, zrobię
+
+75
+00:11:41,748 --> 00:11:42,320
+To.
+
+76
+00:11:46,150 --> 00:11:50,210
+Muszę sobie pozwolić na nagrywanie z drugiego laptopa.
+
+77
+00:11:51,110 --> 00:11:54,242
+Mogę też udostępnić za
+
+78
+00:11:54,376 --> 00:11:58,440
+wszyscy. Zbyt dużo do zrobienia.
+
+79
+00:12:00,650 --> 00:12:06,840
+Po prostu nie wiedziałem, że będę dzisiaj gospodarzem, bo okej,
+
+80
+00:12:07,530 --> 00:12:11,162
+nagranie zrobione. Możemy zacząć. Tak. I tak pozwól
+
+81
+00:12:11,216 --> 00:12:13,660
+udostępnij swój ekran, proszę.
+
+82
+00:12:15,470 --> 00:12:19,018
+Zróbmy to w ten sposób. Teraz wszyscy mogą udostępniać ekran.
+
+83
+00:12:19,184 --> 00:12:22,220
+Mam nadzieję, że tylko Marek to zrobi.
+
+84
+00:12:23,950 --> 00:12:28,090
+Czy to działa do tej pory? Tak. Idę tylko po swoje slajdy
+
+85
+00:12:29,950 --> 00:12:32,380
+i wtedy się dowiemy. Mam nadzieję.
+
+86
+00:12:35,190 --> 00:12:40,974
+Początkujący Doom.
+
+87
+00:12:41,102 --> 00:12:42,180
+Zobaczmy,
+
+88
+00:12:55,080 --> 00:12:58,964
+zanim zaczniemy, tylko słowo, które możesz zobaczyć
+
+89
+00:12:59,162 --> 00:13:03,140
+na dole uczestnicy. Możesz zobaczyć
+
+90
+00:13:03,290 --> 00:13:06,544
+pisanie, guzik pokasz NAPIS.
+
+91
+00:13:06,672 --> 00:13:10,600
+Okre, napisy. Pokaż napisy
+
+92
+00:13:11,580 --> 00:13:14,936
+albo nie pokazuj Więc możesz kliknąć pokaż
+
+93
+00:13:14,958 --> 00:13:18,332
+napisy i zobaczysz, co było
+
+94
+00:13:18,386 --> 00:13:21,784
+powiedział. Istnieje więc automatyczna transkrypcja
+
+95
+00:13:21,912 --> 00:13:26,040
+z angielskiego na angielski bo może jakieś słowa
+
+96
+00:13:26,130 --> 00:13:30,352
+że nie będziesz pewien, czy rozumiesz, będzie łatwiej
+
+97
+00:13:30,486 --> 00:13:34,050
+oglądać je napisane. Więc to działa w ten sposób.
+
+98
+00:13:35,220 --> 00:13:38,130
+Dominique, czy będziesz tłumaczyć, kiedy mówię?
+
+99
+00:13:38,440 --> 00:13:42,836
+Nie, właśnie tam to powiedziałem
+
+100
+00:13:42,858 --> 00:13:46,532
+będzie tylko automatyczna transkrypcja. Więc cokolwiek ty
+
+101
+00:13:46,586 --> 00:13:50,304
+powiedzmy, że jest łódź
+
+102
+00:13:50,352 --> 00:13:53,976
+to zapisuje, więc oni
+
+103
+00:13:53,998 --> 00:13:57,972
+można zobaczyć angielską pisemną transkrypcję. Ale my nie
+
+104
+00:13:58,116 --> 00:14:01,816
+przetłumaczyć te szkolenia z tobą, bo to
+
+105
+00:14:01,838 --> 00:14:05,644
+zdobycie wiedzy zajęłoby dwa razy więcej czasu. I wielu ludzi
+
+106
+00:14:05,682 --> 00:14:09,260
+w Polsce mówią już po angielsku na tyle dobrze, że rozumieją
+
+107
+00:14:09,410 --> 00:14:13,212
+co mówisz. Dobra, dodałem swoje złe
+
+108
+00:14:13,266 --> 00:14:17,260
+polską wersję na moim slajdzie, więc mam nadzieję
+
+109
+00:14:17,420 --> 00:14:19,730
+Nie ośmieszam się zbytnio.
+
+110
+00:14:20,900 --> 00:14:26,816
+Zawsze jesteśmy pod wrażeniem, że tak dobrze się do wszystkich przygotowujecie
+
+111
+00:14:26,838 --> 00:14:29,940
+te wykłady i używasz naszego języka,
+
+112
+00:14:31,000 --> 00:14:34,564
+co jest dla nas prawdziwym zaskoczeniem. Cóż, nadużywam twojego
+
+113
+00:14:34,602 --> 00:14:38,596
+język. To jest to co robię. Mimo wszystko dziękuję
+
+114
+00:14:38,698 --> 00:14:40,020
+do przygotowania.
+
+115
+00:14:41,980 --> 00:14:45,704
+Pierwszą rzeczą, od której zacznę, jest po prostu to
+
+116
+00:14:45,742 --> 00:14:50,100
+początkujący słowo. Bo jeśli ktoś się identyfikuje
+
+117
+00:14:50,180 --> 00:14:53,676
+jako początkujący musimy o tym pomyśleć
+
+118
+00:14:53,698 --> 00:14:57,470
+przez sekundę, ponieważ mówimy o używaniu głosu,
+
+119
+00:14:57,920 --> 00:15:02,392
+i tak naprawdę nie ma dorosłego początkującego
+
+120
+00:15:02,536 --> 00:15:06,304
+jeśli chodzi o używanie głosu, ponieważ wszyscy to robimy
+
+121
+00:15:06,342 --> 00:15:10,352
+używamy naszego głosu od tego dnia
+
+122
+00:15:10,406 --> 00:15:13,856
+jeden. A więc to są prawdziwi początkujący tutaj.
+
+123
+00:15:13,958 --> 00:15:18,124
+A kiedy myślisz o całej eksploracji
+
+124
+00:15:18,252 --> 00:15:21,772
+co robimy, gdy rodzimy się po raz pierwszy z naszym głosem,
+
+125
+00:15:21,916 --> 00:15:25,264
+kiedy pomyślisz o tych wszystkich eksperymentach, które
+
+126
+00:15:25,302 --> 00:15:29,004
+idzie dalej, wielkość i kształt krtani,
+
+127
+00:15:29,052 --> 00:15:33,012
+nawet same fałdy głosowe są bardzo różne dla niemowlęcia.
+
+128
+00:15:33,156 --> 00:15:36,456
+I są tam małe komórki stylitowe i
+
+129
+00:15:36,478 --> 00:15:40,452
+brzegach fałdów głosowych sam fałd nie jest wielowarstwowy
+
+130
+00:15:40,516 --> 00:15:44,424
+dla niemowlęcia. Jest jednowarstwowy, co oznacza, że ​​jest po prostu
+
+131
+00:15:44,462 --> 00:15:48,184
+jedna warstwa i czeka na użycie
+
+132
+00:15:48,222 --> 00:15:51,780
+wywołać tę niesamowitą ewolucję poprzez małe dzieci.
